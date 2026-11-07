@@ -1,2 +1,5 @@
 *.css linguist-vendored
+*.html linguist-vendored
+*.js linguist-vendored
+*.py linguist-detectable
 ui/js/packages/** linguist-vendored
